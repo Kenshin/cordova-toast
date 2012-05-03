@@ -45,7 +45,11 @@ Toast.makeText(ctx, message, length).show();
 Toast.makeText((Context)ctx, message, length).show();
 </pre>
 
-----------------------------------------------
-联系方式：
+## 更新日志：
+version 1.0[2012-05-03]
+* 基于[PhoneGap-Toast](https://github.com/m00sey/PhoneGap-Toast)
+* 适合cordova 1.5+
+
+## 联系方式：
 * 博客：[k-zone.cn](http://www.k-zone.cn/zblog)
 * 微博：[新浪微博](http://weibo.com/23784148)

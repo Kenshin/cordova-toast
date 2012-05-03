@@ -1,6 +1,4 @@
-Cordova-Toast
-=============
-
+##Cordova-Toast
 PhoneGap Toast for cordova适用于1.5以上的cordova版本。
 
 在[PhoneGap-Toast](https://github.com/m00sey/PhoneGap-Toast)的基础上，修改为对cordova(1.5版本以上)的支持。

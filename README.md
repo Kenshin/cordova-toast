@@ -1,12 +1,10 @@
 ##Cordova-Toast
-PhoneGap Toast for cordova适用于1.5以上的cordova版本。
-
 在[PhoneGap-Toast](https://github.com/m00sey/PhoneGap-Toast)的基础上，修改为对cordova(1.5版本以上)的支持。
 
-使用方法：  
+### 使用方法：  
 与[PhoneGap-Toast](https://github.com/m00sey/PhoneGap-Toast)一样。
 
-修改地方：  
+### 修改地方：  
 phonegap-toast.js改名为cordova-toast.js，其内容为
 <pre>
 var ToastPlugin = function() {

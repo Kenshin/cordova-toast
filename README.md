@@ -47,5 +47,5 @@ Toast.makeText((Context)ctx, message, length).show();
 
 ----------------------------------------------
 联系方式：
-* **博客** [k-zone.cn](http://www.k-zone.cn/zblog)
-* **微博** [新浪微博](http://weibo.com/23784148)
+* 博客：[k-zone.cn](http://www.k-zone.cn/zblog)
+* 微博：[新浪微博](http://weibo.com/23784148)

@@ -1,4 +1,4 @@
-cordova-toast
+Cordova-Toast
 =============
 
 PhoneGap Toast for cordova

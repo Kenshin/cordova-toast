@@ -46,7 +46,7 @@ Toast.makeText((Context)ctx, message, length).show();
 </pre>
 
 ## 更新日志：
-version 1.0[2012-05-03]
+version 1.0 [2012-05-03]
 * 基于[PhoneGap-Toast](https://github.com/m00sey/PhoneGap-Toast)
 * 适合cordova 1.5+
 
